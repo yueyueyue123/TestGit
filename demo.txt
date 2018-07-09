@@ -1,2 +1,4 @@
 var number=12345;
 var str="testDemo";
+var sub="string";
+var int=5678;
